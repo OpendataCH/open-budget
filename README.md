@@ -1,7 +1,6 @@
-New developers, designers and ideator are welcome to join.
+## 🚧 No longer maintained 🚧
 
-## Amateur: How to use
-* stay tuned for cloud hosted solution
+This is a community project which is looking for a new maintainre. You can find a list of other installations at https://make.opendata.ch/wiki/project:open_budget - check the other forks for code updates, and feel free to use the [Issue board](https://github.com/OpendataCH/open-budget/issues) or [our forums](https://forum.opendata.ch) to ask a question.
 
 ## Engineer: How to use
 ### Prerequisites
