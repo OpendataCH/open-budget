@@ -1,6 +1,8 @@
 ## 🚧 No longer maintained 🚧
 
-This is a community project which is looking for a new maintainre. You can find a list of other installations at https://make.opendata.ch/wiki/project:open_budget - check the other forks for code updates, and feel free to use the [Issue board](https://github.com/OpendataCH/open-budget/issues) or [our forums](https://forum.opendata.ch) to ask a question.
+This is a community project in need of maintenance. You can find a list of installations at https://make.opendata.ch/wiki/project:open_budget - check the other forks for code updates, and feel free to use the [Issue board](https://github.com/OpendataCH/open-budget/issues) or [our forums](https://forum.opendata.ch) to ask a question.
+
+For data sources see: https://github.com/OpendataCH/open-budget-converters
 
 ## Engineer: How to use
 ### Prerequisites
